@@ -1,1 +1,9 @@
+# Mac OS
+.DS_store
+
+# Pycharm
 .idea*
+
+# Data
+learning/
+data/

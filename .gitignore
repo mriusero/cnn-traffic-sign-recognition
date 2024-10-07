@@ -1,9 +1,0 @@
-# Mac OS
-.DS_store
-
-# Pycharm
-.idea*
-
-# Data
-learning/
-input_data/

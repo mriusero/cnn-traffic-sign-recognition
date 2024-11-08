@@ -1,7 +1,9 @@
-# DEEP-LEARNING-PROJECT
+# DEEP-LEARNING 
 **Road Sign Classification**  
 
 This repository contains a comprehensive project focused on the classification of road signs, a key field in computer vision. The project explores the development of a high-performing deep learning model optimized for identifying and categorizing road signs to support traffic regulation. The model leverages the GTSRB dataset and employs advanced techniques to ensure robustness and accuracy across various conditions.  
+
+[See Overview](traffic-sign-recognition-overview.pdf)
 
 ## Project Background
 
